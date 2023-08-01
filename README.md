@@ -11,7 +11,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=drPod)](https://git.io/streak-stats)
 
-<!-->
+<!--
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=drPod)](https://github.com/anuraghazra/github-readme-stats)
 Don't use Wakatime, it's not installed on all the IDEs I have
 -->
