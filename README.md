@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drPod&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=drPod)](https://git.io/streak-stats)
+
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=drPod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
