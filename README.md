@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello, My name is Darsh Poddar 👋
+
+## About Me
+
+- I'm from Dallas, Texas
+- I specialize in cybersecurity
+- I like to build web applications for fun
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drPod&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=drPod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **drPod/drPod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
