@@ -13,9 +13,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=drPod)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:wakatime-->
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:wakatime-->
 
 <!--
 **drPod/drPod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
