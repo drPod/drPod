@@ -21,7 +21,7 @@ TypeScript          10 hrs 31 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## About Me
 
 - I'm from Dallas, Texas
-- I'm at student at UIUC
+- I'm a student at UIUC
 - I like Cybersecurity
 - I like Data Science
 - I like Coding
