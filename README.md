@@ -22,9 +22,7 @@ TypeScript          10 hrs 31 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 - I'm from Dallas, Texas
 - I'm a student at UIUC
-- I like Cybersecurity
-- I like Data Science
-- I like Coding
+- I like coding
 - Reach me at darsh.pod@gmail.com
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drPod&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
