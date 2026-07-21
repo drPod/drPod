@@ -19,6 +19,18 @@ jobs:
           TIME_RANGE: all_time
           LANG_COUNT: 10
           SHOW_TIME: true
-          SHOW_TOTAL: true
+          SHOW_TOTAL: false
           SHOW_MASKED_TIME: false
           IGNORED_LANGUAGES: YAML JSON TOML
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Rename Other to Claude Code
+        run: |
+          sed -i 's/^Other      /Claude Code/' README.md  # both 11 chars, keeps columns aligned
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git commit -am "Rename Other to Claude Code"
+            git push
+          fi
